@@ -23,9 +23,10 @@ sections:
           description: ""
           url: /partners/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: About LAW@CDC 2022
+      subtitle: 25 September - 7 November 2021
+      description: LAW@CDC 2021 is a nationwide effort to promote awareness and
+        understanding of the law in the community through a series of talks.
       button: Button text
       url: /faq/
   - resources:
