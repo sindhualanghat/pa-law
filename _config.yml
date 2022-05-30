@@ -2,19 +2,19 @@ title: Law Awareness Weeks @ CDC
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#417505"
-  secondary-color: "#00838f"
+  primary-color: "#0f9d31"
+  secondary-color: "#2da963"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#499a65"
     - title: media-color-two
-      color: "#507c1c"
+      color: "#236941"
     - title: media-color-three
-      color: "#00838f"
+      color: "#008f32"
     - title: media-color-four
-      color: "#00838f"
+      color: "#008f1f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#3e8f00"
 resources_name: Resources
 description: This is an informational site about Law Awareness Weeks @ CDC.
 permalink: none
