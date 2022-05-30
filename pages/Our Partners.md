@@ -6,9 +6,9 @@ description: LAW@CDC Partners
 Law Awareness Weeks @ CDC 2021 is brought to you by Law Society Pro Bono Services, in partnership with the five Community Development Councils, National University of Singapore Faculty of Law Centre for Pro Bono Clinical Legal Education, Singapore Management University Pro Bono Centre, Singapore University of Social Sciences School of Law and Singapore Corporate Counsel Association Pro Bono Chapter, supported by the People’s Association.
 
 ## Offical PR Partner
-
+![APRW](/images/Picture5.png)
 ## Webinar Collaborators
-
+![](/images/Picture6.png)
 ## Law Society Pro Bono Services
 
 Law Society Pro Bono Services is an initiative by The Law Society of Singapore to help bring free legal assistance to those in need in our community. It is part of The Law Society's stated mission to ensure access to justice for all.
