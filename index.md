@@ -11,17 +11,17 @@ sections:
       subtitle: Theme
       background: /images/hero-banner.png
       button: learn more
-      url: /contact-us/
+      url: /about/
       key_highlights:
         - title: WEBINAR TOPICS
           description: ""
-          url: https://google.com
+          url: /webinar/
         - title: Speakers and moderators
           description: ""
-          url: https://gmail.com
+          url: /speakers/
         - title: PARTNERS
           description: ""
-          url: /privacy/
+          url: /partners/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -33,4 +33,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
