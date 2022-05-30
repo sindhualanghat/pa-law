@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Law Awareness Weeks @ CDC 2022
-      subtitle: Theme
+      subtitle: Insert Theme Here
       background: /images/hero-banner.png
       button: learn more
       url: /about/
