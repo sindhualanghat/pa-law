@@ -38,4 +38,11 @@ sections:
       url: /webinar/
       image: /images/Picture1.png
       alt: Image alt text
+  - infobar:
+      title: Our Partners
+      description: Law Awareness Weeks @ CDC 2021 is brought to you by Law Society Pro
+        Bono Services, in partnership with the five Community Development
+        Councils.
+      button: Learn more
+      url: /partners/
 ---
