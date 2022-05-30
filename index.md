@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Law Awareness Weeks @ CDC
+description: This is an informational site about Law Awareness Weeks @ CDC.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -33,3 +33,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
