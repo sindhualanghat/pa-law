@@ -30,15 +30,12 @@ sections:
       url: /about/
       image: /images/Picture7.png
       alt: Image alt text
-  - infobar:
-      title: About LAW@CDC 2022
-      subtitle: 25 September - 7 November 2021
-      description: LAW@CDC 2021 is a nationwide effort to promote awareness and
-        understanding of the law in the community through a series of talks.
-      button: find out more
-      url: /about/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+  - infopic:
+      title: Webinar Topics
+      description: Register for our webinars to learn about your rights and equip
+        yourself on how to best handle basic legal issues.
+      button: Register now
+      url: /webinar/
+      image: /images/Picture1.png
+      alt: Image alt text
 ---
