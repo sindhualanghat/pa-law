@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /partners/
   - infopic:
-      title: "ABOUT LAW@CDC "
+      title: ABOUT LAW@CDC 2022
       description: LAW@CDC 2021 is a nationwide effort to promote awareness and
         understanding of the law in the community through a series of talks.
       button: Find out more
