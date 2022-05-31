@@ -4,10 +4,6 @@ permalink: /contact/
 description: Contact Us page
 third_nav_title: "2021"
 ---
-
-
-
-
 If you have any enquiries or feedback regarding Law Awareness Weeks @ CDC 2021, please write to us at outreach@lawsocprobono.org.
 
 Contact Details
