@@ -1,5 +1,5 @@
 collections:
-  "2021":
+  previous-years:
     output: true
     order:
       - Law Awareness Weeks @ CDC.md
