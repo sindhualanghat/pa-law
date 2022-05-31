@@ -1,5 +1,5 @@
 collections:
-  "2021":
+  test-2021:
     output: true
     order:
       - About LAW@CDC.md
