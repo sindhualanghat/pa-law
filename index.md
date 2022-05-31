@@ -54,4 +54,8 @@ sections:
       title: Law Awareness Weeks @ CDC 2021
       button: Click here
       url: /Test-2021
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
