@@ -53,5 +53,5 @@ sections:
   - infobar:
       title: Law Awareness Weeks @ CDC 2021
       button: Click here
-      url: /Test 2021
+      url: /Test
 ---
