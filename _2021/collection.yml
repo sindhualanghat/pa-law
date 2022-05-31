@@ -2,6 +2,7 @@ collections:
   "2021":
     output: true
     order:
+      - 2021 Test.md
       - Sub2021/Contact Us.md
       - Sub2021/Our Partners.md
       - Sub2021/Speakers and Moderators.md
