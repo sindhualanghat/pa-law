@@ -50,4 +50,9 @@ sections:
         Councils.
       button: Learn more
       url: /partners/
+  - infobar:
+      title: Law Awareness Weeks @ CDC 2021
+      description: Infobar description
+      button: Click here
+      url: //
 ---
