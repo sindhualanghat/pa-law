@@ -2,5 +2,6 @@ collections:
   "2021":
     output: true
     order:
+      - Speakers and Moderators.md
       - Webinar Topics.md
       - About LAW@CDC.md
