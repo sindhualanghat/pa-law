@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sub2021/.keep
-      - About LAW@CDC.md
       - Webinar Topics.md
       - Speakers and Moderators.md
       - Our Partners.md
