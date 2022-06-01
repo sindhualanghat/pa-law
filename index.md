@@ -53,6 +53,6 @@ sections:
   - infobar:
       title: Archives
       button: Click here
-      url: /2021/Law-Awareness-Weeks-CDC
+      url: /archives
       description: View past LAW@CDC programmes
 ---
