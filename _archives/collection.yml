@@ -2,9 +2,9 @@ collections:
   archives:
     output: true
     order:
+      - Law Awareness Weeks @ CDC.md
       - 2019.md
       - 2020.md
-      - Law Awareness Weeks @ CDC.md
       - 2022/.keep
       - 2022/About LAW@CDC.md
       - 2022/Webinar Topics.md
