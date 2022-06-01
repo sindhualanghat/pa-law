@@ -1,5 +1,5 @@
 collections:
-  archives:
+  history:
     output: true
     order:
       - Law Awareness Weeks @ CDC History.md
