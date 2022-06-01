@@ -51,7 +51,8 @@ sections:
       button: Learn more
       url: /partners/
   - infobar:
-      title: Law Awareness Weeks @ CDC
+      title: Archives
       button: Click here
       url: /2021/Law-Awareness-Weeks-CDC
+      description: View past LAW@CDC programmes
 ---
