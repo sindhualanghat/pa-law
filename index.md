@@ -51,8 +51,8 @@ sections:
       button: Learn more
       url: /partners/
   - infobar:
-      title: Archives
+      title: History
       button: Click here
-      url: /archives
-      description: View past LAW@CDC programmes
+      url: /history
+      description: View past LAW@CDC programmes.
 ---
