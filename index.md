@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Staying Cybersafe - Protecting Yourself and the Community
       background: /images/LAWCDC Homepage Banner-3.png
       button: learn more
       url: /about/
