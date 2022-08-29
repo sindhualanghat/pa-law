@@ -12,4 +12,4 @@ The theme for LAW@CDC 2022 is **_Staying Cybersafe – Protecting Yourself and 
 
 Our moderators together with our panellists, will discuss on the respective topics.  Participants will have the opportunity to ask questions and clarify any doubts they may have on the law relating to the topics.  Catered to audiences with no legal background, the legal talks aim to simplify legal jargon and explain the law as it applies to the man on the street as well as how they can see recourse in order to heal the relationships that they are in.
 
-Register for our webinars to learn about your rights and equip yourself on how to best handle basic legal issues!
+[Register](/webinar/) for our webinars to learn about your rights and equip yourself on how to best handle basic legal issues!
