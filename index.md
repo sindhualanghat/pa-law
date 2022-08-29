@@ -7,9 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Law Awareness Weeks @ CDC 2022
-      subtitle: Insert Theme Here
-      background: /images/hero-banner.png
+      subtitle: Staying Cybersafe - Protecting Yourself and the Community
+      background: /images/LAWCDC Homepage Banner.png
       button: learn more
       url: /about/
       key_highlights:
