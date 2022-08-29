@@ -28,20 +28,18 @@ sections:
       button: Find out more
       url: /about/
       alt: Key visual of LAW@CDC 2022
-  - infopic:
-      title: Webinar Topics
-      description: Register for our webinars to learn about your rights and equip
-        yourself on how to best handle basic legal issues.
-      button: Register now
-      url: /webinar/
-      image: /images/Picture1.png
-      alt: Image alt text
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
         yourself on how to best handle basic legal issues.
       button: Register now
       url: /webinar/
+  - infopic:
+      title: Speakers and Moderators
+      button: Find out more
+      url: /spakers/
+      image: /images/Picture1.png
+      alt: Image alt text
   - infobar:
       title: Our Partners
       description: Law Awareness Weeks @ CDC 2021 is brought to you by Law Society Pro
