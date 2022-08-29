@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/LAWCDC Homepage Banner-3.png
-      button: learn more
       url: /about/
       key_highlights:
         - title: WEBINAR TOPICS
