@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       subtitle: Staying Cybersafe - Protecting Yourself and the Community
-      background: /images/LAWCDC Homepage Banner.png
+      background: /images/LAWCDC Homepage Banner-3.png
       button: learn more
       url: /about/
       key_highlights:
@@ -22,13 +22,12 @@ sections:
           description: ""
           url: /partners/
   - infopic:
-      title: ABOUT LAW@CDC 2022
+      title: About LAW@CDC 2022
       description: LAW@CDC 2021 is a nationwide effort to promote awareness and
         understanding of the law in the community through a series of talks.
       button: Find out more
       url: /about/
-      image: /images/Picture7.png
-      alt: Image alt text
+      alt: Key visual of LAW@CDC 2022
   - infopic:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
