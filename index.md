@@ -37,10 +37,11 @@ sections:
       image: /images/Picture1.png
       alt: Image alt text
   - infobar:
-      title: Speakers and Moderators
-      description: Infobar description here
-      button: Read more
-      url: /speakers/
+      title: Webinar Topics
+      description: Register for our webinars to learn about your rights and equip
+        yourself on how to best handle basic legal issues.
+      button: Register now
+      url: /webinar/
   - infobar:
       title: Our Partners
       description: Law Awareness Weeks @ CDC 2021 is brought to you by Law Society Pro
