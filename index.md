@@ -41,7 +41,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: Our Partners
-      description: Law Awareness Weeks @ CDC 2021 is brought to you by Law Society Pro
+      description: Law Awareness Weeks@CDC 2022 is brought to you by Law Society Pro
         Bono Services, in partnership with the five Community Development
         Councils.
       button: Learn more
