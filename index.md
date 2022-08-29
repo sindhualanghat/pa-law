@@ -26,6 +26,7 @@ sections:
       button: Find out more
       url: /about/
       alt: Key visual of LAW@CDC 2022
+      image: /images/Banner.png
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
