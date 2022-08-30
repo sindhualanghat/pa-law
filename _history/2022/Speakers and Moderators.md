@@ -187,8 +187,8 @@ Samson has grown the regulatory profile of Xfers by successfully obtaining a rar
 
 Samson’s compliance leadership was also recognised by the Minister of Home Affairs, Mr. K. Shanmugam, and also with four police awards to date for the company's efforts in the fight against cybercrime - 2018, 2020, 2021, 2022.
 
-
-**SARITA MISIR**
+### Sarita Misir
+![](/images/Sarita%20Misir.jpg)
 
 Sarita is Singapore-qualified transactional and technology lawyer practising in the areas of mergers and acquisitions (M&A), capital markets and information technology law, with a passion for employment law. She is currently Senior Vice President, Global Legal at a major Asia-Pacific focused international healthcare company, where she is the legal lead for global M&A, capital markets and healthcare tech. She is a volunteer at LSPBS and sits on the Law Awareness Committee.
 
