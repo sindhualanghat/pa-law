@@ -1,10 +1,11 @@
 ---
 title: Speakers and Moderators
-permalink: /speakers
+permalink: /speakers/
 description: LAW@CDC Speakers and Moderators
 third_nav_title: "2022"
 ---
-**ABIGAIL LEE**
+### ABIGAIL LEE
+![](/images/Abigail%20Lee.jpg)
 
 Abigail is the Executive Director of Healing Hearts Centre, and the current President of the Association for Play Therapy (Singapore). 
 
@@ -13,7 +14,8 @@ With close to 15 years of experience as a counsellor, play therapist, supervisor
 She is a Certified Circle of Security Facilitator with Circle of Security International and a Certified TraumaPlay therapist and supervisor. In addition, she is appointed by the Family Justice Courts as a Parenting Coordinator and by the Singapore Mediation Centre as a Collaborative Family Practice Counsellor to work with families undergoing separation and divorce.
 
 
-**Amarjit Kaur**
+### Amarjit Kaur
+![](/images/Amarjit%20Kaur.jpg)
 
 Amarjit is a partner in the litigation and arbitration team, with a focus on employment matters.
 
@@ -28,7 +30,8 @@ Amarjit is a frontrunner in training and performing cultural assessments on #MeT
 Amarjit has also been frequently interviewed by various media on current issues and matters relating to employment.
 
 
-**Dr Chen Shiling**
+### Dr Chen Shiling
+![](/images/Dr%20Chen%20Shiling.png)
 
 Dr Chen Shiling is a physician with special interests in dementia and adults with intellectual disability (ID). She is deeply passionate about improving the lives of both populations, and is currently working with Tsao Foundation and Khoo Teck Puat Hospital in providing care for both populations. She is also the founder of “Happee Hearts Movement”, which advocates and provides for the health needs of adults with ID. Dr Chen is currently a member of the Management Committee of Alzheimer's Disease Association (ADA) and also chairs their Programmes and Services Sub-Committee. She is also a member of the Residential and Community-based Care Services Committee in Movement for the Intellectually Disabled of Singapore (MINDS) and serves on their Healthcare Working Group. Dr Chen is also a member of the AWWA Programmes and Services Committee and also serves on the board of Mamre Oaks Ltd. She is also an appointed member of the Adult Protection Team (APT), Ministry of Social and Family Development.
 
