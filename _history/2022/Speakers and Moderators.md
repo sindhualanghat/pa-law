@@ -42,7 +42,7 @@ Dr Chen Shiling is a physician with special interests in dementia and adults wit
 
 **Pei Lin** is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in **public affairs** and **public education** campaign communications, **corporate**, **litigation** and **crisis communications** and **government relations**. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies and non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.  
 
-### CHRISTINE TEE
+### Christine Tee
 ![](/images/Christine%20Tee.jpg)
 
 Christine’s practice is in litigation and dispute resolution, with a focus on professional liability, employment and investigations.
@@ -52,12 +52,13 @@ Christine regularly advises companies on a wide variety of dispute. She also adv
 Christine has acted as counsel in High Court Suits involving allegations of harassment by ex-employees, as well as counsel in POHA court proceedings.
 
 
-**DEREK LOW**
+### Derek Low
+![](/images/Derek%20Low.jpg)
 
 Derek is currently a contracts negotiator with TotalEnergies, specializing in the law relating to international trading in oil and gas. As a former litigation lawyer, Derek has a keen interest in legal issues concerning the social compact of Singapore, and he keeps an eye out for new developments in fields such as Criminal Law, Family Law and new emerging areas such as harassment and personal data protection.
 
-**EUNICE CHUA**
-
+### Eunice Chua
+![](/images/Eunice%20Chua.jpg)
 Eunice is the Chief Executive Officer of FIDReC and a Research Fellow at the Singapore International Dispute Resolution Academy. She was previously an Assistant Professor of Law at the Singapore Management University School of Law and Deputy CEO of the Singapore International Mediation Centre. Eunice has also served as Assistant Registrar of the Supreme Court, and Magistrate of the State Courts. Her areas of expertise are dispute resolution, evidence and procedure.
 
 
