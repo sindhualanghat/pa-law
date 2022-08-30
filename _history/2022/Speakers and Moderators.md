@@ -201,17 +201,17 @@ She is the co-chair of the Singapore Corporate Counsel Association Pro Bono Chap
 
 
 ### Simran Kaur Toor
-
+![](/images/Simran%20Toh.jpg)
 Simran is an avid proponent of fair treatment, diversity, equality, and inclusion. After close to 2 decades as a lawyer, Simran recently left legal practice at a Big 4 law firm to head up SG Her Empowerment Limited (“SHE”), a non-profit organisation established in 2022 to drive women’s development in Singapore.
 
 
-**DR TOH SEE KIAT**
-
+### Dr Toh See Kiat
+![](/images/DR%20TOH%20SEE%20KIAT%20(1).jpg)
 Dr Toh See Kiat (Chairman Goodwins Law Corporation, Edition Limited and CommerceNet Singapore Limited) graduated with an LLB (Hons) Degree from the National University of Singapore in 1982 and was admitted as an Advocate and Solicitor in Singapore in 1983. He obtained his Master’s Degree in Law from Harvard University in 1986 and, in 1991, a PhD in Law from the University of London where he did his doctoral thesis in electronic commerce. He has also been admitted as a Solicitor in England and Wales. Dr Toh has also been a Professor in NUS, NTU and Tyndale University, Canada. He is a former Member of Parliament and President of CASE.
 
 
-**YAP TEONG LIANG**
-
+### Yap Teong Liang
+![](/images/Yap%20Teong%20Liang.jpg)
 Teong Liang was called to the Bar of England and Wales (Middle Temple) in 1991 and admitted as an Advocate & Solicitor of the Supreme Court of Singapore in June 1992. On 10 June 2002, he set up his boutique law firm specialising in Family Law.
 
 Teong Liang has been engaged as leading counsel in both first instance and at appellate levels in the Family Division of the High Court and the Court of Appeal. He is listed as a Preeminent and Leading Family & Divorce Lawyer in the Doyle’s Guide and Litigation Star for Family and Matrimonial Disputes in Benchmark Litigation Asia-Pacific 2021. In 2021 and 2022, the firm was ranked one of Singapore’s Best Law Firms in Family Law in the Straits Times/Statista survey.
@@ -221,6 +221,6 @@ Teong Liang also practices as a Collaborative Family Practitioner, Parenting Coo
 Teong Liang has presented papers at both local and overseas family law conferences over the years and authored the chapter on Maintenance of Wife and Children in the book “The Art of Family Lawyering”, a publication of the Law Society of Singapore in 2005. He authored the chapter on Ancillary Relief: Orders That Can be Made in the book “The Law and Practice of Family Law in Singapore” published in 2016 and recently co-authored the Chapter on Dispute Resolution Options in the book “The Art of Family Lawyering” (2019 Special Edition).
 
 
-**YOS PANG**
-
+### Yos Pang
+![](/images/Yos%20Pang.jpg)
 Yos is an international, commercial technology lawyer, with a strong background in intellectual property and is well-versed in legal Chinese. Previously, she was a lead lawyer at Facebook for platforms and an external counsel advising Microsoft's legal team. Yos currently leads Snyk's legal team across Asia Pacific and is passionate about bringing Snyk's combination of developer-first tooling and best-in-class security intelligence to more markets across APJ. She specialises in IT and IP law, with a particular interest in open source and open content issues. Outside of work, Yos also acts as an advisor and legal consultant for several women empowering tech organisations and social enterprises, including She Loves Tech, Women in Tech and CRIB. She also sits as a director and corporate secretary of a non-profit organisation Cycling Without Age Singapore.
