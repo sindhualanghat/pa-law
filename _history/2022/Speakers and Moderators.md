@@ -194,7 +194,7 @@ Sarita is Singapore-qualified transactional and technology lawyer practising in 
 
 
 ### SERENE GAN
-
+![](/images/Serene%20Gan.jpg)
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
 
 She is the co-chair of the Singapore Corporate Counsel Association Pro Bono Chapter which aims to encourage pro bono spirit within the in-house legal community to do volunteer work. 
