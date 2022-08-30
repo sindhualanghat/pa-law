@@ -61,8 +61,8 @@ Derek is currently a contracts negotiator with TotalEnergies, specializing in th
 ![](/images/Eunice%20Chua.jpg)
 Eunice is the Chief Executive Officer of FIDReC and a Research Fellow at the Singapore International Dispute Resolution Academy. She was previously an Assistant Professor of Law at the Singapore Management University School of Law and Deputy CEO of the Singapore International Mediation Centre. Eunice has also served as Assistant Registrar of the Supreme Court, and Magistrate of the State Courts. Her areas of expertise are dispute resolution, evidence and procedure.
 
-
-**FONG WEI LI**
+### Fong Wei Li
+![](/images/Fong%20Wei%20Li.jpg)
 
 Wei Li is the managing director of Forward Legal LLC – a small law firm specialising in Internet and social media law. He primarily practises litigation and arbitration, with a focus on media, Internet, and China-related matters. Wei Li also enjoys sharing his experience. He is an active member of the Law Awareness Committee and is often invited to conduct public talks and seminars aimed at promoting legal knowledge and awareness among laypersons. In addition to lawyering, Wei Li is an adjunct faculty member at the Singapore Management University’s YPH School of Law.
 
