@@ -40,6 +40,7 @@ Join us as our moderator, Jerrick Lim (Senior Legal Counsel, EVYD Research Pte L
 ### Online Shopping – Is It Safe?
 
 **Wednesday, 5 October 2022, 7.00pm – 8.30pm**
+![](/images/ONLINE%20SHOPPING%20IS%20IT%20SAFE_.png)
 
 Do you go online shopping? Do you buy investment products online? Do you use an electronic wallet? The panel will discuss common traps to avoid in digital transactions. Common scenarios such as unauthorized transactions, undelivered goods, instalment plans and more will be discussed.
 
@@ -51,6 +52,7 @@ manage them. 
 ### Harassment at the Workplace - is help available?
 
 **Tuesday, 11 October 2022, 7.00pm – 8.30pm**
+![](/images/Harassment%20at%20the%20Workplace%20-%20%20is%20Help%20Available_.png)
 
 Have you ever been a victim of workplace harassment such as physical abuse, abusive behaviour, cyber bullying or sexual harassment? A recent study has shown that workplace bullying is increasingly prevalent in Singapore. Given the current economic uncertainty, many employees find themselves already facing harassment, termination or even retrenchment as businesses struggle to stay relevant and afloat.
 
@@ -80,7 +82,7 @@ Join us as our moderator, Serene Gan (Senior Legal Counsel, International proper
 ### Neighbour or Foe?
 
 **Tuesday, 8 October 2022, 7.00pm – 8.30pm**
-
+![](/images/NEIGHBOUR%20OR%20FOE_.png)
 The pandemic has forced many of us to stay and work from home – but some of us may have found that working from home leads to greater tension with the neighbours.  Statistically, neighbourly disputes have risen in number. How can such conflicts be resolved? Are there ways to fix these issues without going to Court? What if you know someone who has a dispute with his neighbor?
 
 Join us as our moderator, Kellyn Lee (Senior Associate, Drew & Napier), and speakers, Gloria James (Head Lawyer, Gloria James-Civetta & Co) and Katherine Yap (Master Mediator, Community Mediation Centre), as they share how such conflicts can be resolved amicably! 
