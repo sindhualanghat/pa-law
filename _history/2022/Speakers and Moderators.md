@@ -66,8 +66,8 @@ Eunice is the Chief Executive Officer of FIDReC and a Research Fellow at the Sin
 
 Wei Li is the managing director of Forward Legal LLC – a small law firm specialising in Internet and social media law. He primarily practises litigation and arbitration, with a focus on media, Internet, and China-related matters. Wei Li also enjoys sharing his experience. He is an active member of the Law Awareness Committee and is often invited to conduct public talks and seminars aimed at promoting legal knowledge and awareness among laypersons. In addition to lawyering, Wei Li is an adjunct faculty member at the Singapore Management University’s YPH School of Law.
 
-
-**GENIE SUGENE GAN**
+### Genie Sugene Gan
+![](/images/Genie%20Gan.jpg)
 
 Genie heads up Kaspersky’s Public Affairs in the Asia-Pacific & Middle-East, Turkey and Africa regions, where she is responsible for developing trusted relations with government and institutional stakeholders for the company, while integrating the business, communications and public policy strategies.
 
@@ -78,7 +78,8 @@ Genie started her journeys in accountancy and law in Big Four Firms. Early on, s
 Outside her professional portfolio, her passion for teaching, non-profit and charity work has led her to be an adjunct lecturer at universities and serve on various Boards and Committees of Non-Profit Organizations and volunteer for pro bono legal causes.
 
 
-**GLORIA JAMES**
+### Gloria James
+![](/images/Gloria%20James-Civetta.jpeg)
 
 Gloria has been a practising lawyer since 1996 and has gained considerable experience and knowledge in diverse areas of the law pertaining to Family Law, Criminal Law, Civil Law and Estate Law.
 
