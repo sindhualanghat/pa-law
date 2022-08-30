@@ -179,8 +179,8 @@ She has been involved and has experience in numerous Court proceedings including
 She is well-versed in Family Justice Courts and Syariah Court proceedings and has practised in all levels of the Singapore Courts.
 
 
-**SAMSON LEO**
-
+### Samson Leo
+![](/images/Samson%20Leo.jpg)
 Samson Leo is currently the Chief Legal Officer of Fazz Financial Group and Xfers, which are both high-growth “Fintech 250” companies. Since his time as co-founder and Chief Legal Officer in Xfers, he has grown Xfers from a 3-person start-up to a regional company with more than 200 people across Singapore, Indonesia, Taiwan, Vietnam and Philippines. Today, he heads the Fazz Financial Group’s legal team of 6 legal counsels in Singapore & Indonesia, and oversees the FFG Compliance committee consisting of senior compliance professionals and their team.
 
 Samson has grown the regulatory profile of Xfers by successfully obtaining a rare MAS approval in 2019 for Xfers to become a widely accepted stored value facility, one of only six in Singapore. External partners have remarked that it was a “highly ambitious goal given that Xfers was a start-up, the need to partner a bank and MAS’ scrutiny in processing Xfers’ application”. Later in 2020, Xfers became licensed by MAS as a Major Payment Institution under the Payment Services Act. Under this regime, Xfers launched the first regulated Singapore-dollar denominated “stablecoin” - the “XSGD”, offering consumer protections under the Payment Services Act and the technological edge of blockchain-based payments.
