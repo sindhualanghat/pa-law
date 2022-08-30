@@ -157,20 +157,21 @@ In 2018, Nicholas was honoured both as a Friend of the Ministry of Culture, Comm
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
 
-**PEGGY YEE**
+### Peggy Yee
 
 Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike.​ She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.​
 
 Peggy is particularly interested and invested in Family Law matters. She considers it a privilege to be entrusted with a client's personal family matters. As such, she handles every such matter sensitively. She consistently strategises for her clients so that they can best navigate the legal and emotional humps facing them. The goal is to achieve a solution that best addresses the client's needs and intent. She also believes that an acceptable settlement is preferable to an unsatisfactory judgment.​
 
 
-**RAJAN CHETTIAR**
+### Rajan Chettiar
+![](/images/Rajan%20Chettiar.jpg)
 
 Rajan Chettiar is a barrister-at-law from the United Kingdom and qualified as an Advocate and Solicitor of Singapore in 1997. He is the Managing Director of Rajan Chettiar LLC, a boutique family and personal law firm. He is well regarded family lawyer who has acted in high net-worth domestic and international divorces. Rajan is also an Associate Mediator with the Singapore Mediation Centre, a Volunteer Mediator in the State Courts Centre for Dispute Resolution and the Community Mediation Centre. He is also a Collaborative Family Lawyer, Child Representative and a Parent Coordinator.  He is a director of the first private mediation company in Singapore, Resolvers Pte Ltd which offers private mediation. He is a Board Member of the International Academy of Collaborative Professionals based in the United States of America. 
 
 
-**REBECCA VATHANASIN**
-
+### Rebecca Vathanasin
+![](/images/Rebecca%20Vathanasin.jpg)
 Rebecca is a Senior Associate with Gloria James-Civetta & Co.
 
 She has been involved and has experience in numerous Court proceedings including divorce, annulments, Personal Protection Orders (PPO), spousal and child maintenance, custody and relocation applications and applications under the Mental Capacity Act.
