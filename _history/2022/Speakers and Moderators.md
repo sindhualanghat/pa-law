@@ -193,14 +193,14 @@ Samson’s compliance leadership was also recognised by the Minister of Home Aff
 Sarita is Singapore-qualified transactional and technology lawyer practising in the areas of mergers and acquisitions (M&A), capital markets and information technology law, with a passion for employment law. She is currently Senior Vice President, Global Legal at a major Asia-Pacific focused international healthcare company, where she is the legal lead for global M&A, capital markets and healthcare tech. She is a volunteer at LSPBS and sits on the Law Awareness Committee.
 
 
-### SERENE GAN
+### Serene Gan
 ![](/images/Serene%20Gan.jpg)
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
 
 She is the co-chair of the Singapore Corporate Counsel Association Pro Bono Chapter which aims to encourage pro bono spirit within the in-house legal community to do volunteer work. 
 
 
-**SIMRAN KAUR TOOR**
+### Simran Kaur Toor
 
 Simran is an avid proponent of fair treatment, diversity, equality, and inclusion. After close to 2 decades as a lawyer, Simran recently left legal practice at a Big 4 law firm to head up SG Her Empowerment Limited (“SHE”), a non-profit organisation established in 2022 to drive women’s development in Singapore.
 
