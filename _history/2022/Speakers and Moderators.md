@@ -140,8 +140,8 @@ Mei Zhen is called to the Singapore Bar and is currently an in-house counsel.
 As a volunteer at Law Society Pro Bono Services (LSPBS) since October 2017, Liyen has assisted in the development of materials for Law Awareness talks, and helping with LSPBS’s annual fundraising gala and the Annual Report.  Recently, she has had the opportunity to create content for and host legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the bar in 2000.  She practiced as a corporate commercial lawyer for about 2 years, assisting in both High Court and Subordinate Court cases, before joining Siemens Pte Ltd as in-house counsel from 2003-2005.  She has two teenage children.
 
 
-**NICHOLAS KHOO**
-
+### Nicholas Khoo
+![](/images/Nicholas%20Aaron%20Khoo.jpeg)
 With over 20 years of diverse experience, Nicholas has been a co-founder and board member in businesses, non profits, and government. Worked with Fortune 500 CEOs, headed up the region for an investor in digital-first education, Nicholas has also led a regional team for Visa supporting the biggest internet businesses like Tencent, Alibaba, Ctrip, and SEA manage their risks in digital transactions, serving on Visa's Asia Pacific Merchant Sales & Solutions leadership.
 
 Nicholas has also provided leadership to major esports events (including a number of world championships) that have reached more than 500 million gamers globally. Nicholas has chaired multiple national initiatives, including one with the Ministry of Education to have students reimagine education and work for Singapore’s next 50 years as well as an official ASEAN youth event. Nicholas has also been invited to judge an Innovator Awards in Silicon Valley, the ASEAN Youth Creative Industry Fair and led a national delegation to the Nanjing Youth Olympics on the invitation of China’s Vice Premier. He was also invited by Chinese Leaders to share the stage with key global leaders at the Wuzhen Summit.
@@ -151,7 +151,8 @@ Nicholas clearly has an unconventional approach to life when he turned down pres
 In 2018, Nicholas was honoured both as a Friend of the Ministry of Culture, Community & Youth as well as the Ministry of Social and Family Development. In 2021, Nicholas was awarded the Minister for Home Affairs National Day Awards.
 
 
-**PATRICK TAY**
+### Patrick Tay
+![](/images/Patrick%20Tay.jpg)
 
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
