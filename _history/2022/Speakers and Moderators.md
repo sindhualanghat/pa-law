@@ -91,15 +91,16 @@ In 2015, Gloria underwent an intensive 40 hours Family Mediation Workshop jointl
 
 With this training, she is capable of managing high conflict personalities in an intensive, emotional and volatile background. She is also able to empathise with, and provide emotional support to clients.
 
-
-**HALIJAH MOHAMAD**
+### Halijah Mohamad
+![](/images/Halijah%20Mohamad.jpg)
 
 Halijah Mohamad graduated from National University of S’pore and was called to the bar in 1984. The focus of her practice is family law (in both civil and syariah courts). She is involved with various NGOs (including AWARE & Muslim Financial Planning Association). She is now Vice President of S’pore Association of Women's Lawyers. She is a member of the Family Law Practice and Muslim Law Practice Committees in the Law Society.  
 
 She is also part of Musawah (a global movement for equality in Muslim family). She had been involved in representations to Select Committee on several bills including Administration of Muslim Law Act, Women's Charter, Penal Code, and Maintenance of Parents Act.  She contributed the chapter on Overview of Syariah law in family matters in the book LAW & PRACTICE OF FAMILY LAW IN S’PORE published by Sweet & Maxwell (2016).   
 
 
-**JEFFREY LIM**
+### Jeffrey Lim
+![](/images/Jeffrey%20Lim.jpg)
 
 Jeffrey Lim is a lawyer specialising in data governance, cybersecurity, privacy and artificial intelligence. His clients include global e-commerce multinationals and technology companies. He was in-house counsel at a global technology company where he managed a data privacy compliance program for East Asia, ANZ and India.
 
