@@ -193,7 +193,7 @@ Samson’s compliance leadership was also recognised by the Minister of Home Aff
 Sarita is Singapore-qualified transactional and technology lawyer practising in the areas of mergers and acquisitions (M&A), capital markets and information technology law, with a passion for employment law. She is currently Senior Vice President, Global Legal at a major Asia-Pacific focused international healthcare company, where she is the legal lead for global M&A, capital markets and healthcare tech. She is a volunteer at LSPBS and sits on the Law Awareness Committee.
 
 
-### **SERENE GAN**Serene Gan
+### SERENE GAN
 
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
 
