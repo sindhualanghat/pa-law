@@ -123,18 +123,20 @@ Fore fronting all facets of the business, Katherine has over 13 years of experie
 Katherine further adds to her comprehensive portfolio in the ADR landscape through her certification as an Associate Mediator at the Singapore Mediation Centre, Master Mediator for the Community Mediation Centre and Mediator for the Singapore International Mediation Institution. She is also on the Panel of Mediators with Beihai Asia International Arbitration Centre and Executive Committee of the Society of Mediation Professionals (Singapore). She has over 9 years of experience in Mediation and actively presides over mediation cases with the CMC. 
 
 
-**KELLYN LEE**
+### Kellyn Lee
+![](/images/Kellyn%20Lee.jpg)
 
 Kellyn is a Senior Associate in the Dispute Resolution department at Drew & Napier LLC. In addition to holding a Juris Doctor degree from Singapore Management University, she also holds a Bachelor of Social Sciences (Honours) from the National University of Singapore in Communications and New Media, with a specialisation in communication and risk management. She is a member of the Law Awareness Committee and has been actively involved in legal awareness and outreach efforts since her law school days.
 
 
-**LEE MEI ZHEN**
+### Lee Mei Zhen
+![](/images/Lee%20Mei%20Zhen.jpeg)
 
 Mei Zhen is called to the Singapore Bar and is currently an in-house counsel.
 
 
-**LIM LIYEN**
-
+### Lim Liyen
+![](/images/Lim%20Liyen.jpg)
 As a volunteer at Law Society Pro Bono Services (LSPBS) since October 2017, Liyen has assisted in the development of materials for Law Awareness talks, and helping with LSPBS’s annual fundraising gala and the Annual Report.  Recently, she has had the opportunity to create content for and host legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the bar in 2000.  She practiced as a corporate commercial lawyer for about 2 years, assisting in both High Court and Subordinate Court cases, before joining Siemens Pte Ltd as in-house counsel from 2003-2005.  She has two teenage children.
 
 
