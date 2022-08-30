@@ -4,7 +4,7 @@ permalink: /speakers/
 description: LAW@CDC Speakers and Moderators
 third_nav_title: "2022"
 ---
-### ABIGAIL LEE
+### Abigail Lee
 ![](/images/Abigail%20Lee.jpg)
 
 Abigail is the Executive Director of Healing Hearts Centre, and the current President of the Association for Play Therapy (Singapore). 
@@ -36,12 +36,14 @@ Amarjit has also been frequently interviewed by various media on current issues 
 Dr Chen Shiling is a physician with special interests in dementia and adults with intellectual disability (ID). She is deeply passionate about improving the lives of both populations, and is currently working with Tsao Foundation and Khoo Teck Puat Hospital in providing care for both populations. She is also the founder of “Happee Hearts Movement”, which advocates and provides for the health needs of adults with ID. Dr Chen is currently a member of the Management Committee of Alzheimer's Disease Association (ADA) and also chairs their Programmes and Services Sub-Committee. She is also a member of the Residential and Community-based Care Services Committee in Movement for the Intellectually Disabled of Singapore (MINDS) and serves on their Healthcare Working Group. Dr Chen is also a member of the AWWA Programmes and Services Committee and also serves on the board of Mamre Oaks Ltd. She is also an appointed member of the Adult Protection Team (APT), Ministry of Social and Family Development.
 
 
-**CHO PEI LIN**
+### Cho Pei Lin
+
+![](/images/Cho%20Pei%20Lin.jpg)
 
 **Pei Lin** is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in **public affairs** and **public education** campaign communications, **corporate**, **litigation** and **crisis communications** and **government relations**. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies and non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.  
 
-
-**CHRISTINE TEE**
+### CHRISTINE TEE
+![](/images/Christine%20Tee.jpg)
 
 Christine’s practice is in litigation and dispute resolution, with a focus on professional liability, employment and investigations.
 
