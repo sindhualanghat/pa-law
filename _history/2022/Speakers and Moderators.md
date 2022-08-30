@@ -107,12 +107,14 @@ Jeffrey Lim is a lawyer specialising in data governance, cybersecurity, privacy 
 Jeffrey is Chair of the Law Society’s Cybersecurity & Data Protection Committee, and legal advisor to the Singapore Computer Society. He has written articles on data protection published by the PDPC and is the lead writer for legal chapter in the SCS-IMDA AI Ethics Body of Knowledge. He is a former chair of the Law Society’s Project Law Help Committee and remains active in pro bono work.
 
 
-**JERRICK LIM**
+### Jerrick Lim
+![](/images/Jerrick%20Lim.jpg)
 
 Jerrick is a Senior Legal Counsel in the healthcare sector, focussed on developing start-ups that have global reach. Jerrick has previously had experiences in the travel, logistics and the insurance industry. He has ongoing interest in ensuring access to justice, and mentoring the next generation of legal professionals.
 
 
-**KATHERINE YAP**
+### Katherine Yap
+![](/images/Katherine%20Yap.jpeg)
 
 Katherine Yap was one of the pioneer visionaries who spearheaded the establishment of Maxwell Chambers in Singapore. She also championed the expansion of Maxwell Chambers new building premise, Maxwell Chambers Suites, in August 2019. Katherine also jointly led Maxwell Chambers through the co-founding of the IACA (International Arbitration Centre Alliance), advocating the use of virtual and hybrid ADR hearings globally. 
 
