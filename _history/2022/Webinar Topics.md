@@ -70,9 +70,7 @@ Are you worried about Cybersecurity and how your data is being handled? Organiza
 
 Join us as our moderator, Yos Pang (APJ Head of Legal, SNYK), and speakers, Jeffrey Lim (Director, Joyce A. Tan & Partners LLC) and Genie Sugene Gan (Head of Public Policy & Government Affairs, Asia-Pacific & Middle-East, Turkey and Africa), as they discuss about the possible breaches as well as the legal remedies to prepare and activate.
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
-
-[https://us02web.zoom.us/webinar/register/6516613364959/WN\_BrAnLKuMR8WgoBmLVys-7A](https://us02web.zoom.us/webinar/register/6516613364959/WN_BrAnLKuMR8WgoBmLVys-7A)
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_BrAnLKuMR8WgoBmLVys-7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### So You Want to be a Social Media Influencer?
 
@@ -82,9 +80,7 @@ Are you a social media influencer? Or hope to garner more followers to become on
 
 Join us as our moderator, Serene Gan (Senior Legal Counsel, International property Group) and speakers, Cho Pei Lin (Managing Director, APRW) and, Fong Wei Li (Managing Director, Forward Legal LLC), as they discuss about your legal rights on social media platforms and contractual rights when doing product placements for businesses. Also learn about what you legally can and cannot say or use, to keep yourself out of trouble! Stay informed!
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
-
-[https://us02web.zoom.us/webinar/register/6516613364959/WN\_ocDRLtsEQVeGzS07sfhd7A](https://us02web.zoom.us/webinar/register/6516613364959/WN_ocDRLtsEQVeGzS07sfhd7A)
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_ocDRLtsEQVeGzS07sfhd7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Neighbour or Foe?
 
@@ -94,10 +90,7 @@ The pandemic has forced many of us to stay and work from home – but some of us
 
 Join us as our moderator, Kellyn Lee (Senior Associate, Drew & Napier), and speakers, Gloria James (Head Lawyer, Gloria James-Civetta & Co) and Katherine Yap (Master Mediator, Community Mediation Centre), as they share how such conflicts can be resolved amicably! 
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
-
-[https://us02web.zoom.us/webinar/register/6516613364959/WN\_186EGH8iRdCL2J0E6F5iEg](https://us02web.zoom.us/webinar/register/6516613364959/WN_186EGH8iRdCL2J0E6F5iEg)
-
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Legal Considerations for Caregivers
 
@@ -108,9 +101,7 @@ When your loved one slowly loses his/her mental capacity or they get injured and
 
 Join us as our moderator, Lee Mei Zhen (Assistant VP, International Bank), and speakers, Dr Chen Shiling (TBC) and Peggy Yee (Director, PY Legal LLC) as they address topics like the role and responsibilities of caregivers, what legal instruments and process can be put in place to protect your loved one and yourself, the caregiver.
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
-
-[https://us02web.zoom.us/webinar/register/6516613364959/WN\_6S4ImJLZTVOlo6XLs1nPxQ](https://us02web.zoom.us/webinar/register/6516613364959/WN_6S4ImJLZTVOlo6XLs1nPxQ)
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_6S4ImJLZTVOlo6XLs1nPxQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 
 ### Help! I am a Victim of Online Harm!
@@ -122,9 +113,7 @@ Is someone defaming you online or perhaps sharing intimate photos or videos of y
 
 Our moderator Derek Low (Contracts Negotiator, TotalEnergies) and speakers, Christine Tee (Partner, Allen & Gledhill) and Simran Kuar Toor (CEO, S.H.E. Ltd) will address topics such as cyberbullying, harassment, repeated unwanted contact, impersonation, stalking, defamation, doxxing and technologically-facilitated sexual violence, with a focus on explaining the legal remedies that are available, and how to access them.
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
-
-[https://us02web.zoom.us/webinar/register/6516613364959/WN\_wvBwJBEwTRWfq8hJtKj3bg](https://us02web.zoom.us/webinar/register/6516613364959/WN_wvBwJBEwTRWfq8hJtKj3bg)
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_wvBwJBEwTRWfq8hJtKj3bg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Divorce & you (Civil)
 
@@ -137,6 +126,4 @@ Has the experience given rise to some marital issues for you? Are you worried ab
 
 Join our moderator Lim Liyen (Volunteer, LSPBS) and speakers, Yap Teong Liang (Director, T L Yap Law Chambers LLC) and Abigail Lee (Executive Director, Healing Hearts Centre), as they walk you through divorce proceedings, mediation and explore other options for couples facing marital disputes and discuss ancillary matters such as children’s welfare, maintenance, division of matrimonial assets and more.
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
-
-[https://us02web.zoom.us/webinar/register/6516613364959/WN\_ncSEE\_rOTh2NtY-sd3KEgQ](https://us02web.zoom.us/webinar/register/6516613364959/WN_ncSEE_rOTh2NtY-sd3KEgQ)
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_ncSEE\_rOTh2NtY-sd3KEgQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
