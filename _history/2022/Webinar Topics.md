@@ -47,7 +47,7 @@ Do you go online shopping? Do you buy investment products online? Do you use an 
 Join us as our moderator, Soh Gill (Legal Counsel, Capgemini Singapore Pte Ltd), and speakers, Dr Toh See Kiat (Chairman, Goodwins Law Corporation) and Eunice Chua (CEO, FIDReC), share about the possible disputes in online transactions and how to avoid or 
 manage them. 
 
-<a href="https://us02web.zoom.us/webinar/register/8416613941538/WN\_VHf39cwNT4ezA-Xlv9b1BA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/8416613941538/WN_VHf39cwNT4ezA-Xlv9b1BA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 
 ### Harassment at the Workplace - is help available?
