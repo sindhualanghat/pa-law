@@ -50,7 +50,7 @@ manage them. 
 <a href="https://us02web.zoom.us/webinar/register/8416613941538/WN_VHf39cwNT4ezA-Xlv9b1BA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 
-### Harassment at the Workplace - is help available?
+### Harassment at the Workplace - Is Help Available?
 
 **Tuesday, 11 October 2022, 7.00pm – 8.30pm**
 ![](/images/Harassment%20at%20the%20Workplace%20-%20%20is%20Help%20Available_.png)
