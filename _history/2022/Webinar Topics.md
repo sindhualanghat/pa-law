@@ -35,7 +35,7 @@ Planning for your later years but not sure what to do? Concerned but unaware abo
 
 Join us as our moderator, Jerrick Lim (Senior Legal Counsel, EVYD Research Pte Ltd) and speaker, Rajan Chettiar (Managing Director, Rajan Chettiar LLC), share about a variety of legal tools you can use to ensure that your family is taken care of while your wishes are respected even after you’re gone.
 
-<a href="https://us02web.zoom.us/webinar/register/3216596832117/WN\_5BRElu6jS92v1tegMj35wg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/3216596832117/WN_5BRElu6jS92v1tegMj35wg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Online Shopping – Is It Safe?
 
