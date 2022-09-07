@@ -126,4 +126,4 @@ Has the experience given rise to some marital issues for you? Are you worried ab
 
 Join our moderator Lim Liyen (Volunteer, LSPBS) and speakers, Yap Teong Liang (Director, T L Yap Law Chambers LLC) and Abigail Lee (Executive Director, Healing Hearts Centre), as they walk you through divorce proceedings, mediation and explore other options for couples facing marital disputes and discuss ancillary matters such as children’s welfare, maintenance, division of matrimonial assets and more.
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_ncSEE\_rOTh2NtY-sd3KEgQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_ncSEE_rOTh2NtY-sd3KEgQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
