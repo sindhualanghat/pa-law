@@ -101,7 +101,7 @@ When your loved one slowly loses his/her mental capacity or they get injured and
 
 Join us as our moderator, Lee Mei Zhen (Assistant VP, International Bank), and speakers, Dr Chen Shiling (TBC) and Peggy Yee (Director, PY Legal LLC) as they address topics like the role and responsibilities of caregivers, what legal instruments and process can be put in place to protect your loved one and yourself, the caregiver.
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_6S4ImJLZTVOlo6XLs1nPxQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_6S4ImJLZTVOlo6XLs1nPxQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 
 ### Help! I am a Victim of Online Harm!
