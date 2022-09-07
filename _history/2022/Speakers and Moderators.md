@@ -206,8 +206,7 @@ She is well-versed in Family Justice Courts and Syariah Court proceedings and ha
 
 
 ### Samson Leo
-![](/images/Samson%20Leo.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Samson%20Leo.jpg" 
          style="width:250px !important;"/>
 Samson Leo is currently the Chief Legal Officer of Fazz Financial Group and Xfers, which are both high-growth “Fintech 250” companies. Since his time as co-founder and Chief Legal Officer in Xfers, he has grown Xfers from a 3-person start-up to a regional company with more than 200 people across Singapore, Indonesia, Taiwan, Vietnam and Philippines. Today, he heads the Fazz Financial Group’s legal team of 6 legal counsels in Singapore & Indonesia, and oversees the FFG Compliance committee consisting of senior compliance professionals and their team.
 
@@ -216,15 +215,13 @@ Samson has grown the regulatory profile of Xfers by successfully obtaining a rar
 Samson’s compliance leadership was also recognised by the Minister of Home Affairs, Mr. K. Shanmugam, and also with four police awards to date for the company's efforts in the fight against cybercrime - 2018, 2020, 2021, 2022.
 
 ### Sarita Misir
-![](/images/Sarita%20Misir.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Sarita%20Misir.jpg" 
          style="width:250px !important;"/>
 Sarita is Singapore-qualified transactional and technology lawyer practising in the areas of mergers and acquisitions (M&A), capital markets and information technology law, with a passion for employment law. She is currently Senior Vice President, Global Legal at a major Asia-Pacific focused international healthcare company, where she is the legal lead for global M&A, capital markets and healthcare tech. She is a volunteer at LSPBS and sits on the Law Awareness Committee.
 
 
 ### Serene Gan
-![](/images/Serene%20Gan.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Serene%20Gan.jpg" 
          style="width:250px !important;"/>
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
 
