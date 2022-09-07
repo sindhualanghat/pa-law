@@ -70,7 +70,7 @@ Are you worried about Cybersecurity and how your data is being handled? Organiza
 
 Join us as our moderator, Yos Pang (APJ Head of Legal, SNYK), and speakers, Jeffrey Lim (Director, Joyce A. Tan & Partners LLC) and Genie Sugene Gan (Head of Public Policy & Government Affairs, Asia-Pacific & Middle-East, Turkey and Africa), as they discuss about the possible breaches as well as the legal remedies to prepare and activate.
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_BrAnLKuMR8WgoBmLVys-7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_BrAnLKuMR8WgoBmLVys-7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### So You Want to be a Social Media Influencer?
 
