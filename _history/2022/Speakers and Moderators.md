@@ -34,7 +34,7 @@ Amarjit has also been frequently interviewed by various media on current issues 
 
 ### Dr Chen Shiling
 ![](/images/Dr%20Chen%20Shiling.png)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Dr%20Chen%20Shiling.png" 
          style="width:250px !important;"/>
 Dr Chen Shiling is a physician with special interests in dementia and adults with intellectual disability (ID). She is deeply passionate about improving the lives of both populations, and is currently working with Tsao Foundation and Khoo Teck Puat Hospital in providing care for both populations. She is also the founder of “Happee Hearts Movement”, which advocates and provides for the health needs of adults with ID. Dr Chen is currently a member of the Management Committee of Alzheimer's Disease Association (ADA) and also chairs their Programmes and Services Sub-Committee. She is also a member of the Residential and Community-based Care Services Committee in Movement for the Intellectually Disabled of Singapore (MINDS) and serves on their Healthcare Working Group. Dr Chen is also a member of the AWWA Programmes and Services Committee and also serves on the board of Mamre Oaks Ltd. She is also an appointed member of the Adult Protection Team (APT), Ministry of Social and Family Development.
 
@@ -42,13 +42,13 @@ Dr Chen Shiling is a physician with special interests in dementia and adults wit
 ### Cho Pei Lin
 
 ![](/images/Cho%20Pei%20Lin.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Cho%20Pei%20Lin.jpg" 
          style="width:250px !important;"/>
 **Pei Lin** is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in **public affairs** and **public education** campaign communications, **corporate**, **litigation** and **crisis communications** and **government relations**. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies and non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.  
 
 ### Christine Tee
 ![](/images/Christine%20Tee.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Christine%20Tee.jpg" 
          style="width:250px !important;"/>
 Christine’s practice is in litigation and dispute resolution, with a focus on professional liability, employment and investigations.
 
@@ -59,25 +59,25 @@ Christine has acted as counsel in High Court Suits involving allegations of hara
 
 ### Derek Low
 ![](/images/Derek%20Low.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Derek%20Low.jpg" 
          style="width:250px !important;"/>
 Derek is currently a contracts negotiator with TotalEnergies, specializing in the law relating to international trading in oil and gas. As a former litigation lawyer, Derek has a keen interest in legal issues concerning the social compact of Singapore, and he keeps an eye out for new developments in fields such as Criminal Law, Family Law and new emerging areas such as harassment and personal data protection.
 
 ### Eunice Chua
 ![](/images/Eunice%20Chua.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Eunice%20Chua.jpg" 
          style="width:250px !important;"/>
 Eunice is the Chief Executive Officer of FIDReC and a Research Fellow at the Singapore International Dispute Resolution Academy. She was previously an Assistant Professor of Law at the Singapore Management University School of Law and Deputy CEO of the Singapore International Mediation Centre. Eunice has also served as Assistant Registrar of the Supreme Court, and Magistrate of the State Courts. Her areas of expertise are dispute resolution, evidence and procedure.
 
 ### Fong Wei Li
 ![](/images/Fong%20Wei%20Li.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Fong%20Wei%20Li.jpg" 
          style="width:250px !important;"/>
 Wei Li is the managing director of Forward Legal LLC – a small law firm specialising in Internet and social media law. He primarily practises litigation and arbitration, with a focus on media, Internet, and China-related matters. Wei Li also enjoys sharing his experience. He is an active member of the Law Awareness Committee and is often invited to conduct public talks and seminars aimed at promoting legal knowledge and awareness among laypersons. In addition to lawyering, Wei Li is an adjunct faculty member at the Singapore Management University’s YPH School of Law.
 
 ### Genie Sugene Gan
 ![](/images/Genie%20Gan.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Genie%20Gan.jpg" 
          style="width:250px !important;"/>
 Genie heads up Kaspersky’s Public Affairs in the Asia-Pacific & Middle-East, Turkey and Africa regions, where she is responsible for developing trusted relations with government and institutional stakeholders for the company, while integrating the business, communications and public policy strategies.
 
