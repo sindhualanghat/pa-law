@@ -6,7 +6,7 @@ third_nav_title: "2022"
 ---
 ### Abigail Lee
 
-<div style="text-align: left;"><img src="/images/Abigail%20Lee.jpg" style="width:200px !important;" alt="My Image" /></div\>
+<div style="text-align:left;"><img src="/images/Abigail%20Lee.jpg" style="width:200px !important;" alt="My Image" /></div\>
 	
 Abigail is the Executive Director of Healing Hearts Centre, and the current President of the Association for Play Therapy (Singapore). 
 
