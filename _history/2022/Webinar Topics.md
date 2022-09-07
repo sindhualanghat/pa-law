@@ -121,7 +121,7 @@ Is someone defaming you online or perhaps sharing intimate photos or videos of y
 
 Our moderator Derek Low (Contracts Negotiator, TotalEnergies) and speakers, Christine Tee (Partner, Allen & Gledhill) and Simran Kuar Toor (CEO, S.H.E. Ltd) will address topics such as cyberbullying, harassment, repeated unwanted contact, impersonation, stalking, defamation, doxxing and technologically-facilitated sexual violence, with a focus on explaining the legal remedies that are available, and how to access them.
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN/_wvBwJBEwTRWfq8hJtKj3bg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_wvBwJBEwTRWfq8hJtKj3bg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 <hr>
 
 ### Divorce & you (Civil)
