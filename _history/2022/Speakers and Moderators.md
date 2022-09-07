@@ -5,9 +5,9 @@ description: LAW@CDC Speakers and Moderators
 third_nav_title: "2022"
 ---
 ### Abigail Lee
-![](/images/Abigail%20Lee.jpg)
-<img src="/images/Divorce%20&%20You%20(Syariah).png" 
-         style="width:500px !important;"/>
+
+<img src="/images/Abigail%20Lee.jpg" 
+         style="width:250px !important;"/>
 Abigail is the Executive Director of Healing Hearts Centre, and the current President of the Association for Play Therapy (Singapore). 
 
 With close to 15 years of experience as a counsellor, play therapist, supervisor and trainer, Abigail works with children, adolescents, individuals and families who have experienced trauma, abuse and anxiety issues. 
