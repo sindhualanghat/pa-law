@@ -105,9 +105,9 @@ Join us as our moderator, Kellyn Lee (Senior Associate, Drew & Napier), and spea
 **Tuesday, 25 October 2022, 7.00pm – 8.30pm**
 ![](/images/Legal%20Considerations%20for%20Caregivers.png)
 
-When your loved one slowly loses his/her mental capacity or they get injured and needs constant care or have been born with medical conditions that requires your constant supervision? How will you manage to care for them while also protecting yourself, legally and emotionally.
+When your loved ones slowly loses his/her mental capacity or they get injured and needs constant care or have been born with medical conditions that requires your constant supervision? How will you manage to care for them while also protecting yourself, legally and emotionally.
 
-Join us as our moderator, Lee Mei Zhen (Assistant VP, International Bank), and speakers, Dr Chen Shiling (TBC) and Peggy Yee (Director, PY Legal LLC) as they address topics like the role and responsibilities of caregivers, what legal instruments and process can be put in place to protect your loved one and yourself, the caregiver.
+Join us as our moderator, Lee Mei Zhen (Assistant VP, International Bank), and speakers, Dr Chen Shiling (TBC) and Peggy Sarah Yee (Director, PY Legal LLC) as they address topics like the role and responsibilities of caregivers, what legal instruments and process can be put in place to protect your loved one and yourself, the caregiver.
 
 <a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_6S4ImJLZTVOlo6XLs1nPxQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 <hr>
