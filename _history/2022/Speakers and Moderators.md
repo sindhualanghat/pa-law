@@ -161,8 +161,8 @@ In 2018, Nicholas was honoured both as a Friend of the Ministry of Culture, Comm
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
 
-### Peggy Yee
-<img src="/images/Amarjit%20Kaur.jpg" 
+### Peggy Sarah Yee
+<img src="/images/Picture3.jpg" 
          style="width:250px !important;"/>
 Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike. She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.
 
