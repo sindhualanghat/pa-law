@@ -121,15 +121,13 @@ Jeffrey is Chair of the Law Society’s Cybersecurity & Data Protection Committe
 
 
 ### Jerrick Lim
-![](/images/Jerrick%20Lim.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Jerrick%20Lim.jpg" 
          style="width:250px !important;"/>
 Jerrick is a Senior Legal Counsel in the healthcare sector, focussed on developing start-ups that have global reach. Jerrick has previously had experiences in the travel, logistics and the insurance industry. He has ongoing interest in ensuring access to justice, and mentoring the next generation of legal professionals.
 
 
 ### Katherine Yap
-![](/images/Katherine%20Yap.jpeg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Katherine%20Yap.jpeg" 
          style="width:250px !important;"/>
 Katherine Yap was one of the pioneer visionaries who spearheaded the establishment of Maxwell Chambers in Singapore. She also championed the expansion of Maxwell Chambers new building premise, Maxwell Chambers Suites, in August 2019. Katherine also jointly led Maxwell Chambers through the co-founding of the IACA (International Arbitration Centre Alliance), advocating the use of virtual and hybrid ADR hearings globally. 
 
@@ -139,29 +137,25 @@ Katherine further adds to her comprehensive portfolio in the ADR landscape throu
 
 
 ### Kellyn Lee
-![](/images/Kellyn%20Lee.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Kellyn%20Lee.jpg" 
          style="width:250px !important;"/>
 Kellyn is a Senior Associate in the Dispute Resolution department at Drew & Napier LLC. In addition to holding a Juris Doctor degree from Singapore Management University, she also holds a Bachelor of Social Sciences (Honours) from the National University of Singapore in Communications and New Media, with a specialisation in communication and risk management. She is a member of the Law Awareness Committee and has been actively involved in legal awareness and outreach efforts since her law school days.
 
 
 ### Lee Mei Zhen
-![](/images/Lee%20Mei%20Zhen.jpeg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Lee%20Mei%20Zhen.jpeg" 
          style="width:250px !important;"/>
 Mei Zhen is called to the Singapore Bar and is currently an in-house counsel.
 
 
 ### Lim Liyen
-![](/images/Lim%20Liyen.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Lim%20Liyen.jpg" 
          style="width:250px !important;"/>
 As a volunteer at Law Society Pro Bono Services (LSPBS) since October 2017, Liyen has assisted in the development of materials for Law Awareness talks, and helping with LSPBS’s annual fundraising gala and the Annual Report.  Recently, she has had the opportunity to create content for and host legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the bar in 2000.  She practiced as a corporate commercial lawyer for about 2 years, assisting in both High Court and Subordinate Court cases, before joining Siemens Pte Ltd as in-house counsel from 2003-2005.  She has two teenage children.
 
 
 ### Nicholas Khoo
-![](/images/Nicholas%20Aaron%20Khoo.jpeg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Nicholas%20Aaron%20Khoo.jpeg" 
          style="width:250px !important;"/>
 With over 20 years of diverse experience, Nicholas has been a co-founder and board member in businesses, non profits, and government. Worked with Fortune 500 CEOs, headed up the region for an investor in digital-first education, Nicholas has also led a regional team for Visa supporting the biggest internet businesses like Tencent, Alibaba, Ctrip, and SEA manage their risks in digital transactions, serving on Visa's Asia Pacific Merchant Sales & Solutions leadership.
 
@@ -173,8 +167,7 @@ In 2018, Nicholas was honoured both as a Friend of the Ministry of Culture, Comm
 
 
 ### Patrick Tay
-![](/images/Patrick%20Tay.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Patrick%20Tay.jpg" 
          style="width:250px !important;"/>
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
@@ -182,21 +175,19 @@ Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s
 ### Peggy Yee
 <img src="/images/Amarjit%20Kaur.jpg" 
          style="width:250px !important;"/>
-Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike.​ She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.​
+Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike. She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.
 
 Peggy is particularly interested and invested in Family Law matters. She considers it a privilege to be entrusted with a client's personal family matters. As such, she handles every such matter sensitively. She consistently strategises for her clients so that they can best navigate the legal and emotional humps facing them. The goal is to achieve a solution that best addresses the client's needs and intent. She also believes that an acceptable settlement is preferable to an unsatisfactory judgment.​
 
 
 ### Rajan Chettiar
-![](/images/Rajan%20Chettiar.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Rajan%20Chettiar.jpg" 
          style="width:250px !important;"/>
 Rajan Chettiar is a barrister-at-law from the United Kingdom and qualified as an Advocate and Solicitor of Singapore in 1997. He is the Managing Director of Rajan Chettiar LLC, a boutique family and personal law firm. He is well regarded family lawyer who has acted in high net-worth domestic and international divorces. Rajan is also an Associate Mediator with the Singapore Mediation Centre, a Volunteer Mediator in the State Courts Centre for Dispute Resolution and the Community Mediation Centre. He is also a Collaborative Family Lawyer, Child Representative and a Parent Coordinator.  He is a director of the first private mediation company in Singapore, Resolvers Pte Ltd which offers private mediation. He is a Board Member of the International Academy of Collaborative Professionals based in the United States of America. 
 
 
 ### Rebecca Vathanasin
-![](/images/Rebecca%20Vathanasin.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Rebecca%20Vathanasin.jpg" 
          style="width:250px !important;"/>
 Rebecca is a Senior Associate with Gloria James-Civetta & Co.
 
