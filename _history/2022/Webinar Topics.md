@@ -24,7 +24,7 @@ In recent times, there have been increasing incidents of victims falling prey to
 
 In light of the recent developments, join us as our moderator, Samson Leo (Co-Founder & Chief Legal Officer, Xfers/Fazz Financial Group), and speakers, Nicholas Khoo (Council Member, NCPC) and Eunice Chua (CEO, FIDReC), discuss insights through discussions of case scenarios on how to identify scams as well as steps to take when one is in the unfortunate situation of being a victim of a scam.
 
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN\_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Preparing for Golden Years
 
