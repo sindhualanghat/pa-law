@@ -4,6 +4,8 @@ permalink: /webinar/
 description: LAW@CDC Programmes and Webinars
 third_nav_title: "2022"
 ---
+<span id="webinar_page_top"></span>
+
 ### Divorce & You (Syariah)
 **Tuesday, 27 September 2022, 7.00pm – 8.30pm**
 
@@ -137,3 +139,5 @@ Join our moderator Lim Liyen (Volunteer, LSPBS) and speakers, Yap Teong Liang (D
 
 <a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_ncSEE_rOTh2NtY-sd3KEgQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 <hr>
+
+[Back to Top](#webinar_page_top)
