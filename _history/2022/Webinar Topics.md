@@ -80,7 +80,7 @@ Are you a social media influencer? Or hope to garner more followers to become on
 
 Join us as our moderator, Serene Gan (Senior Legal Counsel, International property Group) and speakers, Cho Pei Lin (Managing Director, APRW) and, Fong Wei Li (Managing Director, Forward Legal LLC), as they discuss about your legal rights on social media platforms and contractual rights when doing product placements for businesses. Also learn about what you legally can and cannot say or use, to keep yourself out of trouble! Stay informed!
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_ocDRLtsEQVeGzS07sfhd7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_ocDRLtsEQVeGzS07sfhd7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Neighbour or Foe?
 
