@@ -90,7 +90,7 @@ The pandemic has forced many of us to stay and work from home – but some of us
 
 Join us as our moderator, Kellyn Lee (Senior Associate, Drew & Napier), and speakers, Gloria James (Head Lawyer, Gloria James-Civetta & Co) and Katherine Yap (Master Mediator, Community Mediation Centre), as they share how such conflicts can be resolved amicably! 
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN\_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 ### Legal Considerations for Caregivers
 
