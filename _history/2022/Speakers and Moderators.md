@@ -90,7 +90,7 @@ Outside her professional portfolio, her passion for teaching, non-profit and cha
 
 ### Gloria James
 ![](/images/Gloria%20James-Civetta.jpeg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Gloria%20James-Civetta.jpeg" 
          style="width:250px !important;"/>
 Gloria has been a practising lawyer since 1996 and has gained considerable experience and knowledge in diverse areas of the law pertaining to Family Law, Criminal Law, Civil Law and Estate Law.
 
@@ -103,8 +103,7 @@ In 2015, Gloria underwent an intensive 40 hours Family Mediation Workshop jointl
 With this training, she is capable of managing high conflict personalities in an intensive, emotional and volatile background. She is also able to empathise with, and provide emotional support to clients.
 
 ### Halijah Mohamad
-![](/images/Halijah%20Mohamad.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Halijah%20Mohamad.jpg" 
          style="width:250px !important;"/>
 Halijah Mohamad graduated from National University of S’pore and was called to the bar in 1984. The focus of her practice is family law (in both civil and syariah courts). She is involved with various NGOs (including AWARE & Muslim Financial Planning Association). She is now Vice President of S’pore Association of Women's Lawyers. She is a member of the Family Law Practice and Muslim Law Practice Committees in the Law Society.  
 
@@ -112,8 +111,7 @@ She is also part of Musawah (a global movement for equality in Muslim family).
 
 
 ### Jeffrey Lim
-![](/images/Jeffrey%20Lim.jpg)
-<img src="/images/Amarjit%20Kaur.jpg" 
+<img src="/images/Jeffrey%20Lim.jpg" 
          style="width:250px !important;"/>
 Jeffrey Lim is a lawyer specialising in data governance, cybersecurity, privacy and artificial intelligence. His clients include global e-commerce multinationals and technology companies. He was in-house counsel at a global technology company where he managed a data privacy compliance program for East Asia, ANZ and India.
 
