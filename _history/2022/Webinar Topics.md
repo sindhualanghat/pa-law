@@ -64,7 +64,8 @@ Join us at this webinar with moderator Sarita Misir (Senior Associate, Baker McK
 
 ### Be CyberSafe!
 
-![](/images/BE%20CYBERSAFE!.png)**Wednesday, 12 October 2022, 7.00pm – 8.30pm**
+**Wednesday, 12 October 2022, 7.00pm – 8.30pm**
+![](/images/BE%20CYBERSAFE!.png)
 
 Are you worried about Cybersecurity and how your data is being handled? Organizations today are sitting on huge amounts of data and everyone is struggling to make sense of how their data is protected. What can organisations do to minimise cybersecurity risks especially given new work patterns which evolved as a result of the pandemic? What should you, as a consumer, expect of organisations? What can you do if you feel that your data has been misused or not treated properly? Our panel will discuss the common pitfalls in managing privacy risks as well as the implications and things to note when you face data and security breaches.
 
@@ -74,7 +75,8 @@ Join us as our moderator, Yos Pang (APJ Head of Legal, SNYK), and speakers, Jeff
 
 ### So You Want to be a Social Media Influencer?
 
-![](/images/so%20you%20want%20to%20be%20%20a%20social%20media%20influencer.png)**Monday, 17 October 2022, 7.00pm – 8.30pm**
+**Monday, 17 October 2022, 7.00pm – 8.30pm**
+![](/images/so%20you%20want%20to%20be%20%20a%20social%20media%20influencer.png)
 
 Are you a social media influencer? Or hope to garner more followers to become one? Are you just a frequent user of social media platforms?
 
