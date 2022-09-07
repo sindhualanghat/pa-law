@@ -59,7 +59,7 @@ Have you ever been a victim of workplace harassment such as physical abuse, abus
 
 Join us at this webinar with moderator Sarita Misir (Senior Associate, Baker McKenzie) , together with Patrick Tay (Assistant Secretary-General and Director of Legal, NTUC), and Amarjit Kaur (Partner, Withers KhattarWong), as they share real life examples, your legal rights, and how you can obtain assistance in such circumstances.
 
-<a href="https://us02web.zoom.us/webinar/register/7316613945196/WN\_hH\_2WyNlQcGCKY04JHz98A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
+<a href="https://us02web.zoom.us/webinar/register/7316613945196/WN_hH_2WyNlQcGCKY04JHz98A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 
 
 ### Be CyberSafe!
