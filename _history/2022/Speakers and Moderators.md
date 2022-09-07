@@ -41,7 +41,7 @@ Dr Chen Shiling is a physician with special interests in dementia and adults wit
 ### Cho Pei Lin
 <img src="/images/Cho%20Pei%20Lin.jpg" 
          style="width:250px !important;"/>
-**Pei Lin** is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in **public affairs** and **public education** campaign communications, **corporate**, **litigation** and **crisis communications** and **government relations**. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies and non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.  
+Pei Lin is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in public affairs and public education campaign communications, corporate, litigation and crisis communications and government relations. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies and non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.  
 
 ### Christine Tee
 <img src="/images/Christine%20Tee.jpg" 
