@@ -7,7 +7,8 @@ third_nav_title: "2022"
 ### Divorce & You (Syariah)
 **Tuesday, 27 September 2022, 7.00pm – 8.30pm**
 
-![](/images/Divorce%20&%20You%20(Syariah).png)
+<img src="/images/Divorce%20&%20You%20(Syariah).png" 
+         style="width:500px !important;"/>
 
 Divorcing or looking to divorce and having trouble understanding the Syariah divorce process? Worried about money, housing and offsprings? Do you have many other questions about divorce in the Syariah Courts?
 
