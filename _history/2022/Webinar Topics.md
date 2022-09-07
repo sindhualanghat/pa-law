@@ -13,6 +13,8 @@ Divorcing or looking to divorce and having trouble understanding the Syariah div
 
 Join us as our moderator, Rebecca Vathanasin (Senior Associate, Gloria James-Civetta & Co), and speaker, Halijah Mohamed (Managing Director, Halijah Mohd & Co), as they share about divorce proceedings in the Syariah Courts and cover the most frequently asked questions such as the children, maintenance, as well as inheritance.
 
+[![](/images/Registration%20button.png)](https://us02web.zoom.us/webinar/register/1516474982740/WN_oFn0_AiHSo6T0SF9AHM_WA)
+
 [https://us02web.zoom.us/webinar/register/1516474982740/WN\_oFn0\_AiHSo6T0SF9AHM\_WA](https://us02web.zoom.us/webinar/register/1516474982740/WN_oFn0_AiHSo6T0SF9AHM_WA)
 
 ### Believe It or Not! How to Spot and Avoid Scams
