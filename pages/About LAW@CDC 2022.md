@@ -1,10 +1,9 @@
 ---
 title: About LAW@CDC 2022
-permalink: /about
+permalink: /about/
 description: ""
 ---
-
-![Key visual of LAW@CDC 2022](/images/Banner.png)
+![Key visual of LAW@CDC 2022](/images/banner%20hi-res.jpg)
 The Law Awareness Weeks @ CDC 2022 (LAW@CDC 2022) is a collaboration between Law Society Pro Bono Services (LSPBS) and the five Community Development Councils (CDCs), National University of Singapore (NUS) Faculty of Law, Singapore University of Social Sciences (SUSS) School of Law, Singapore Management University (SMU) School of Law, and the Singapore Corporate Counsel Association (SCCA) Pro Bono Chapter, supported by the People’s Association (PA).
 
 LAW@CDC 2022 is a nationwide effort to promote awareness and understanding of the law in the community through a series of talks, so that people living and working in Singapore may know their rights and be empowered when faced with common legal issues.   This year, there will be 11 law awareness webinars aired ‘live’ online from 27 September 2022 to 27 October 2022.
