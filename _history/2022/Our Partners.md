@@ -16,7 +16,7 @@ Law Society Pro Bono Services is an initiative by The Law Society of Singapore t
 
 Our work is supported by our volunteers who give generously and selflessly of their time and expertise for the needy in our community and financially by contributions from individual lawyers, law practices, private donations, foundations, corporations and key stakeholders such as the Ministry of Law, TOTE Board and various community partners.
 
-For more information on our pro bono programmes please visit https://www.lawsocprobono.org.
+For more information on our pro bono programmes please visit [https://www.lawsocprobono.org](https://www.lawsocprobono.org).
 
 ## Community Development Councils
 
@@ -33,7 +33,7 @@ There are five Community Development Councils (CDCs), namely, Central Singapore,
 (d) Mr Alex Yam	- Mayor of North West District <br>
 (e)  Mr Mohd Fahmi Aliman	- Mayor of South East District <br>
 
-For more information, please visit www.cdc.gov.sg.
+For more information, please visit [www.cdc.gov.sg](www.cdc.gov.sg).
 
 ## Centre for Pro Bono & Clinical Legal Education, Faculty of Law, National University of Singapore
 
@@ -41,7 +41,7 @@ The Centre for Pro Bono & Clinical Legal Education oversees and runs pro bono an
 
 Among its key objectives, the Centre seeks to develop and enhance legal skills in NUS Law students, particularly in community lawyering, and to build legal awareness programmes primarily targeted at the social service sector so as to provide legal assistance to such organisations, and thereby promote the welfare of vulnerable members in our community.
 
-For more information, please visit https://law.nus.edu.sg 
+For more information, please visit [https://law.nus.edu.sg](https://law.nus.edu.sg) 
 
 ## Singapore Management University, Pro Bono Centre
 
@@ -49,7 +49,7 @@ As a stakeholder of the justice system, Singapore Management University (SMU) Pr
 
 The Centre handles all pro bono projects including running legal clinics at SMU, and organising and hosting programmes to raise pro bono consciousness. The Pro Bono Centre has been supported by the RHT Rajan Menon Foundation since 2017.
 
-For more information, please visit https://pbc.smu.edu.sg/
+For more information, please visit [https://pbc.smu.edu.sg/](https://pbc.smu.edu.sg/)
 
 ## School of Law, Singapore University of Social Sciences
 
@@ -59,7 +59,7 @@ Accordingly, our LLB and JD programmes adopt a pedagogical approach that emphasi
 
 Exposure to cross-disciplinary fields, as well as opportunities for all students to engage meaningfully with members of both the Bar and the Judiciary, ensure that our graduates enter the profession primed for practice not just with the foundational knowledge and skills, but also a keen sense of purpose
 
-For more information, please visit https://www.suss.edu.sg/ 
+For more information, please visit[ https://www.suss.edu.sg/]( https://www.suss.edu.sg/) 
 
 ## The Singapore Corporate Counsel Association
 
@@ -69,4 +69,4 @@ Currently, the SCCA reaches out to over 3000 in-house counsel in Singapore and c
 
 It prides in building reputable training programs, toolkits, competency frameworks and skills required by domestic and regional corporate lawyers and will continue to be committed in this endeavour.
 
-For more information, please visit https://www.scca.org.sg/
+For more information, please visit [https://www.scca.org.sg/](https://www.scca.org.sg/)
