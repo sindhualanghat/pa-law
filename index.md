@@ -40,9 +40,4 @@ sections:
         Councils.
       button: Learn more
       url: /partners/
-  - infobar:
-      title: History
-      button: Click here
-      url: /history
-      description: View past LAW@CDC programmes.
 ---
