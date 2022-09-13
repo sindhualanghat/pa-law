@@ -2,7 +2,6 @@ collections:
   history:
     output: true
     order:
-      - 2021.md
       - Law Awareness Weeks @ CDC.md
       - 2022/.keep
       - 2022/About LAW@CDC 2022.md
@@ -10,4 +9,5 @@ collections:
       - 2022/Speakers and Moderators.md
       - 2022/Our Partners.md
       - 2022/Contact Us.md
+      - 2021.md
       - 2020.md
