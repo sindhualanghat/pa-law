@@ -12,8 +12,10 @@ General: +65 6536 0650
 
 Email: <a href = "mailto: abc@example.com">outreach@lawsocprobono.org</a>
 
-Website: www.lawsocprobono.org
+Website: [www.lawsocprobono.org](www.lawsocprobono.org)
 
-Facebook: www.facebook.com/lawsocprobonoservices
+Facebook: [www.facebook.com/lawsocprobonoservices](www.facebook.com/lawsocprobonoservices)
 
-LinkedIn: www.linkedin.com/company/law-society-pro-bono-services
+LinkedIn: [www.linkedin.com/company/law-society-pro-bono-services](www.linkedin.com/company/law-society-pro-bono-services)
+
+
