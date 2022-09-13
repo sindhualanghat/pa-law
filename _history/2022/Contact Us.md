@@ -4,16 +4,15 @@ permalink: /contact/
 description: Contact Us page
 third_nav_title: "2022"
 ---
+If you have any enquiries or feedback regarding Law Awareness Weeks@CDC 2022, please write to us at <a href = "mailto: abc@example.com">outreach@lawsocprobono.org</a>.
 
-If you have any enquiries or feedback regarding Law Awareness Weeks @ CDC 2021, please write to us at outreach@lawsocprobono.org.
-
-Contact Details
+### Contact Details
 
 General: +65 6536 0650
 
-Email: comms@lawsocprobono.org
+Email: <a href = "mailto: abc@example.com">outreach@lawsocprobono.org</a>
 
-Web: www.lawsocprobono.org
+Website: www.lawsocprobono.org
 
 Facebook: www.facebook.com/lawsocprobonoservices
 
