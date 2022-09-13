@@ -33,7 +33,7 @@ There are five Community Development Councils (CDCs), namely, Central Singapore,
 (d) Mr Alex Yam	- Mayor of North West District <br>
 (e)  Mr Mohd Fahmi Aliman	- Mayor of South East District <br>
 
-For more information, please visit [www.cdc.gov.sg](www.cdc.gov.sg).
+For more information, please visit [https://www.cdc.gov.sg](https://www.cdc.gov.sg).
 
 ## Centre for Pro Bono & Clinical Legal Education, Faculty of Law, National University of Singapore
 
