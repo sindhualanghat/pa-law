@@ -1,36 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Law Awareness Weeks @ CDC
+description: This is an informational site about Law Awareness Weeks @ CDC.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/LAWCDC Homepage Banner-3.png
+      url: /about/
+      key_highlights:
+        - title: WEBINAR TOPICS
+          description: ""
+          url: /webinar/
+        - title: Speakers and moderators
+          description: ""
+          url: /speakers/
+        - title: PARTNERS
+          description: ""
+          url: /partners/
+  - infopic:
+      title: About LAW@CDC 2022
+      description: LAW@CDC is a nationwide effort to promote awareness and
+        understanding of the law in the community through a series of talks.
+      button: Find out more
+      url: /about/
+      alt: Key visual of LAW@CDC 2022
+      image: /images/banner hi-res.jpg
+  - infobar:
+      title: Webinar Topics
+      description: Register for our webinars to learn about your rights and equip
+        yourself on how to best handle basic legal issues.
+      button: Register now
+      url: /webinar/
+  - infobar:
+      title: Our Partners
+      description: Law Awareness Weeks@CDC 2022 is brought to you by Law Society Pro
+        Bono Services, in partnership with the five Community Development
+        Councils.
+      button: Learn more
+      url: /partners/
 ---
-

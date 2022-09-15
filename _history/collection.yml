@@ -1,0 +1,14 @@
+collections:
+  history:
+    output: true
+    order:
+      - Law Awareness Weeks @ CDC.md
+      - 2022/.keep
+      - 2022/About LAW@CDC 2022.md
+      - 2022/Webinar Topics.md
+      - 2022/Speakers and Moderators.md
+      - 2022/Our Partners.md
+      - 2022/Contact Us.md
+      - 2021.md
+      - 2020.md
+      - 2019.md
