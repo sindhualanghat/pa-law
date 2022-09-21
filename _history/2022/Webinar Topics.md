@@ -93,7 +93,7 @@ Join us as our moderator, Serene Gan (Senior Legal Counsel, International proper
 
 ### Neighbour or Foe?
 
-**Tuesday, 8 October 2022, 7.00pm – 8.30pm**
+**Tuesday, 18 October 2022, 7.00pm – 8.30pm**
 ![](/images/NEIGHBOUR%20OR%20FOE_.png)
 The pandemic has forced many of us to stay and work from home – but some of us may have found that working from home leads to greater tension with the neighbours.  Statistically, neighbourly disputes have risen in number. How can such conflicts be resolved? Are there ways to fix these issues without going to Court? What if you know someone who has a dispute with his neighbor?
 
