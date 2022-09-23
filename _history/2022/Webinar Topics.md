@@ -126,7 +126,7 @@ Our moderator Derek Low (Contracts Negotiator, TotalEnergies) and speakers, Chri
 <a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_wvBwJBEwTRWfq8hJtKj3bg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button"  style="width:200px !important;" /></a>
 <hr>
 
-### Divorce & you (Civil)
+### Divorce & You (Civil)
 
 **Thursday, 27 October 2022, 7.00pm – 8.30pm**
 ![](/images/Divorce%20&%20You%20(Civil).png)
