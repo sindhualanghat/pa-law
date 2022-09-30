@@ -2,10 +2,13 @@ logo: /images/Picture8.png
 links:
   - title: About LAW@CDC 2022
     url: /about/
-  - title: Webinar Topics
-    url: /webinar/
-  - title: Webinar Speakers & Moderators
-    url: /speakers
+  - title: Webinars
+    url: /webinar
+    sublinks:
+      - title: Webinar Topics
+        url: /webinar
+      - title: Webinar Speakers & Moderators
+        url: /speakers
   - title: Legal Talks
     url: /talks
   - title: Our Partners
