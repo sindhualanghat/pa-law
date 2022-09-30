@@ -13,10 +13,13 @@ sections:
         - title: WEBINAR TOPICS
           description: ""
           url: /webinar/
-        - title: Speakers and moderators
+        - title: Webinar Speakers & moderators
           description: ""
           url: /speakers/
-        - title: PARTNERS
+        - title: Legal Talks
+          description: ""
+          url: /talks
+        - title: Our PARTNERS
           description: ""
           url: /partners/
   - infopic:
