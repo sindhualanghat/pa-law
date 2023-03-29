@@ -50,6 +50,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-law-staging.netlify.app
-prod: https://pa-law-prod.netlify.app
+staging: https://staging.d3mcsrizamdfe0.amplifyapp.com/
+prod: https://master.d3mcsrizamdfe0.amplifyapp.com/
 is_government: true
